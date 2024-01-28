@@ -89,9 +89,10 @@
 <br>
 
 <div align="center">
+  <div align="center">
   
-![giphy](https://github.com/judah-lopes/judah-lopes/assets/134812191/bdc43a21-4aa7-49d3-805c-db4b594797b2)
-</div>
+  ![giphy](https://github.com/judah-lopes/judah-lopes/assets/134812191/bdc43a21-4aa7-49d3-805c-db4b594797b2)
+  </div>
   <h3>REDES SOCIAIS E CONTATOS ✉️</h3>
   <a href="https://www.instagram.com/dev_judah.lopes/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/pedro-judah-lopes-193183239/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
