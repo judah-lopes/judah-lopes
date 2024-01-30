@@ -27,7 +27,8 @@
   <img src="https://img.shields.io/badge/JQUERY-%2378cff5?style=for-the-badge&logo=jquery&logoColor=%2378cff5&labelColor=%23303030">
 <!--   <img src="https://img.shields.io/badge/NODE.JS-%233c873a?style=for-the-badge&logo=node.js&logoColor=%233c873a&labelColor=%23303030">
   <img src="https://img.shields.io/badge/ANGULAR-%23dd1b16?style=for-the-badge&logo=angular&logoColor=%23dd1b16&labelColor=%23303030">
-  <img src="https://img.shields.io/badge/REACT.JS-%2361dafb?style=for-the-badge&logo=react&logoColor=%2361dafb&labelColor=%23303030"> -->
+  <img src="https://img.shields.io/badge/REACT.JS-%2361dafb?style=for-the-badge&logo=react&logoColor=%2361dafb&labelColor=%23303030"> 
+  <img src="https://img.shields.io/badge/PHP-%238993be?style=for-the-badge&logo=php&logoColor=%238993be&labelColor=%23303030">-->
 </div>
 
 <br>
