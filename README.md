@@ -28,7 +28,7 @@
 <!--   <img src="https://img.shields.io/badge/NODE.JS-%233c873a?style=for-the-badge&logo=node.js&logoColor=%233c873a&labelColor=%23303030">
   <img src="https://img.shields.io/badge/ANGULAR-%23dd1b16?style=for-the-badge&logo=angular&logoColor=%23dd1b16&labelColor=%23303030">
   <img src="https://img.shields.io/badge/REACT.JS-%2361dafb?style=for-the-badge&logo=react&logoColor=%2361dafb&labelColor=%23303030"> 
-  <img src="https://img.shields.io/badge/PHP-%238993be?style=for-the-badge&logo=php&logoColor=%238993be&labelColor=%23303030">-->
+  <img src="https://img.shields.io/badge/PHP-%238993be?style=for-the-badge&logo=php&logoColor=%238993be&labelColor=%23303030"> -->
 </div>
 
 <br>
@@ -45,7 +45,7 @@
 
 <div align="center">
   <h3> ATIVIDADE NO GITHUB 🔥</h3>
-  <a href="https://github.com/Thinkright20">      
+  <a href="https://github.com/judah-lopes">      
   <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=judah-lopes&theme=react&hide_border=true&stroke=white&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/>
 </div>
 
