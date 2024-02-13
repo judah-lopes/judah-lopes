@@ -90,7 +90,7 @@
   </div>
   <h3>REDES SOCIAIS E CONTATOS ✉️</h3>
   <a href="https://www.instagram.com/dev_judah.lopes/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="www.linkedin.com/in/judah-lopes" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/judah-lopes" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:dev.judahlopes@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="wa.me/5561983622836" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%2325d366?style=for-the-badge&logo=whatsapp&logoColor=%23FFFFFF"/></a>
+  <a href="https://wa.me/5561983622836" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%2325d366?style=for-the-badge&logo=whatsapp&logoColor=%23FFFFFF"/></a>
 </div>
