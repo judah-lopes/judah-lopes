@@ -58,24 +58,34 @@
 <ul>
   <a href="https://github.com/stars/judah-lopes/lists/cursos"><li>Repositórios de cursos 📚</li></a>
   <a href="https://github.com/stars/judah-lopes/lists/projetos-pessoais"><li>Projetos Pessoais 🙋🏻‍♂️</li></a>
+  <a href="https://github.com/judah-lopes/certificados/tree/main"><li>Certificados🎖️</li></a>
 </ul>
 
 <br>
 
 <div>
   <h3>CERTIFICADOS</h3>
-  <h5>INSTITUIÇÃO 1</h5>
+  <h5>ESCOLA DNC</h5>
   <ul>
-    <a href=""><li></li></a>
-    <a href=""><li></li></a>
-    <a href=""><li></li></a>
+    <a href="https://github.com/judah-lopes/certificados/blob/main/dnc-Introdução_ao_Desenvolvimento_Web.pdf"><li>Introdução ao Desenvolvimento Web</li></a>
+    <a href="https://github.com/judah-lopes/certificados/blob/main/dnc-Desenvolvimento_Web_com_HTML_e_CSS.pdf"><li>Desenvolvimento Web com HTML e CSS</li></a>
+<!--     <a href=""><li></li></a> -->
   </ul>
-  <h5>INSTITUIÇÃO 2</h5>
+  <h5>SENAI</h5>
   <ul>
-    <a href=""><li></li></a>
-    <a href=""><li></li></a>
-    <a href=""><li></li></a>
+    <a href="https://github.com/judah-lopes/certificados/blob/main/senai-Front_End.pdf"><li>Desenvolvedor Front-End</li></a>
+<!--     <a href=""><li></li></a> -->
+  </ul>   
+  <h5>DIO (Digital Innovation One)</h5>
+  <ul>
+    <a href="https://github.com/judah-lopes/certificados/blob/main/dio-Versionamento_de_Código_com_Git_e_GitHub.pdf"><li>Versionamento de Código com Git e GitHub</li></a>
+    <a href="https://github.com/judah-lopes/certificados/blob/main/dio-Conhecendo_Funções_JavaScript.pdf"><li>Conhecendo Funções com JavaScript</li></a>
+    <a href="https://github.com/judah-lopes/certificados/blob/main/dio-Criando_Objetos_e_Classes_em_JavaScript.pdf"><li>Criando Objetos e Classes em JavaScript</li></a>
+    <a href="https://github.com/judah-lopes/certificados/blob/main/dio-Importação_e_Exportação_com_JavaScript.pdf"><li>Importação e Exportação com JavaScript</li></a>
+    <a href="https://github.com/judah-lopes/certificados/blob/main/dio-Criando_um_Projeto_com_HTML_e_CSS_para_Listagem_de_Pokémon.pdf"><li>Criando um Projeto com HTML/CSS para Listagem de Pokémon</li></a>
+<!--     <a href=""><li></li></a> -->
   </ul>    
+   
 </div>
 
 <br>
