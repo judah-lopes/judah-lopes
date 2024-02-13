@@ -19,7 +19,7 @@
 <br>
 
 <div align="center">
-  <h2 >Linguagens e Frameworks</h2>
+  <h2>Linguagens e Frameworks</h2>
   <img src="https://img.shields.io/badge/HTML5-%23f06529?style=for-the-badge&logo=html5&logoColor=%23f06529&labelColor=%23303030">
   <img src="https://img.shields.io/badge/CSS3-%233067e6?style=for-the-badge&logo=css3&logoColor=%232965f1&labelColor=%23303030">
   <img src="https://img.shields.io/badge/JAVASCRIPT-%23f0db4f?style=for-the-badge&logo=javascript&logoColor=%23f0db4f&labelColor=%23303030">
@@ -32,9 +32,11 @@
 </div>
 
 <br>
+<br>
 
 <div align="center">
   <h3>ESTATÍSTICAS 📈</h3>
+  <br>
   <img align="left" height="190em" src="https://github-readme-stats.vercel.app/api?username=judah-lopes&hide_border=true&show_icons=true&count_private=true&theme=react"/> 
   <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=judah-lopes&layout=compact&langs_count=7&theme=react&hide_border=true"/>
 </div>
@@ -52,7 +54,7 @@
   <hr>
 <br>
 
-<h3>LISTAS DE REPOSITÓRIOS</h3> 
+<h2>LISTAS DE REPOSITÓRIOS</h2> 
 <ul>
   <a href="https://github.com/stars/judah-lopes/lists/cursos"><li>Repositórios de cursos 📚</li></a>
   <a href="https://github.com/stars/judah-lopes/lists/projetos-pessoais"><li>Projetos Pessoais 🙋🏻‍♂️</li></a>
@@ -62,7 +64,7 @@
 <br>
 
 <div>
-  <h3>CERTIFICADOS</h3>
+  <h2>CERTIFICADOS</h2>
   <h5>ESCOLA DNC</h5>
   <ul>
     <a href="https://github.com/judah-lopes/certificados/blob/main/dnc-Introdução_ao_Desenvolvimento_Web.pdf"><li>Introdução ao Desenvolvimento Web</li></a>
