@@ -66,18 +66,26 @@
 
 <div>
   <h2>CERTIFICADOS</h2>
-  <h5>ESCOLA DNC</h5>
+  <h4> 🏛️ ESCOLA DNC </h4>
+  <hr align="right" width="50%">
+  <h5> Desenvolvedor Full-Stack 📗</h5>
   <ul>
     <a href="https://github.com/judah-lopes/certificados/blob/main/dnc-Introdução_ao_Desenvolvimento_Web.pdf"><li>Introdução ao Desenvolvimento Web</li></a>
     <a href="https://github.com/judah-lopes/certificados/blob/main/dnc-Desenvolvimento_Web_com_HTML_e_CSS.pdf"><li>Desenvolvimento Web com HTML e CSS</li></a>
 <!--     <a href=""><li></li></a> -->
   </ul>
-  <h5>SENAI</h5>
+  <br>
+  <h4>🏛️ SENAI </h4>
+  <hr align="right" width="50%">
+  <h5> Desenvolvedor Front-End 📗</h5>
   <ul>
     <a href="https://github.com/judah-lopes/certificados/blob/main/senai-Front_End.pdf"><li>Desenvolvedor Front-End</li></a>
 <!--     <a href=""><li></li></a> -->
-  </ul>   
-  <h5>DIO (Digital Innovation One)</h5>
+  </ul>
+  <br>
+  <h4>🏛️ DIO (Digital Innovation One)</h4>
+  <hr align="right" width="50%">
+  <h5>Front-End com ANGULAR 📗</h5>
   <ul>
     <a href="https://github.com/judah-lopes/certificados/blob/main/dio-Versionamento_de_Código_com_Git_e_GitHub.pdf"><li>Versionamento de Código com Git e GitHub</li></a>
     <a href="https://github.com/judah-lopes/certificados/blob/main/dio-Conhecendo_Funções_JavaScript.pdf"><li>Conhecendo Funções com JavaScript</li></a>
