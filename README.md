@@ -93,6 +93,7 @@
     <a href="https://github.com/judah-lopes/certificados/blob/main/dio-Importação_e_Exportação_com_JavaScript.pdf"><li>Importação e Exportação com JavaScript</li></a>
     <a href="https://github.com/judah-lopes/certificados/blob/main/dio-Criando_um_Projeto_com_HTML_e_CSS_para_Listagem_de_Pokémon.pdf"><li>Criando um Projeto com HTML/CSS para Listagem de Pokémon</li></a>
     <a href="https://github.com/judah-lopes/certificados/blob/main/dio-Dominando_o_Protocolo_HTTP_e_Integrando_com_a_PokeAPI.pdf"><li>Dominando o Protocolo HTTP e Integrando com a PokeAPI</li></a>
+    <a href="https://github.com/judah-lopes/certificados/blob/main/dio-Trabalhando_com_Web_Components_no_Front-End.pdf"><li>Trabalhando com Web Components no Front-End</li></a>
 <!--     <a href=""><li></li></a> -->
   </ul>    
    
