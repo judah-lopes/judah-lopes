@@ -18,6 +18,12 @@
   <hr>
 <br>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/judah-lopes/judah-lopes/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/judah-lopes/judah-lopes/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/judah-lopes/judah-lopes/output/github-contribution-grid-snake.svg">
+</picture>
+
 <div align="center">
   <h2>Linguagens e Frameworks</h2>
   <img src="https://img.shields.io/badge/HTML5-%23f06529?style=for-the-badge&logo=html5&logoColor=%23f06529&labelColor=%23303030">
