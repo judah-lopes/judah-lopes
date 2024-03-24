@@ -1,4 +1,14 @@
 ## <h1>Olá, meu nome é Pedro Judah!💻</h1>
+  <table align="right">
+    <tr>
+      <th>Total Count</th>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/judah-lopes"> <img src="https://komarev.com/ghpvc/?username=judah-lopes&style=for-the-badge&color=049602"> </a>
+      </td>
+    </tr>
+  </table>
 <ul>
   <li> 👨‍💻🎨 Desenvolvedor Front-end</li>
   <li> 🙇‍♂️📖 Estudante de Desenvolvimento Full-Stack - Escola DNC (Desde fev/23)</li>
@@ -114,12 +124,16 @@
 
 <div align="center">
   <div align="center">
-  
+      
   ![giphy](https://github.com/judah-lopes/judah-lopes/assets/134812191/bdc43a21-4aa7-49d3-805c-db4b594797b2)
   </div>
+
+  
+  
   <h3>REDES SOCIAIS E CONTATOS ✉️</h3>
   <a href="https://www.instagram.com/dev_judah.lopes/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/judah-lopes" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:dev.judahlopes@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://wa.me/5561983622836" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%2325d366?style=for-the-badge&logo=whatsapp&logoColor=%23FFFFFF"/></a>
+  
 </div>
