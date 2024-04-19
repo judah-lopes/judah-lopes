@@ -130,6 +130,7 @@
   <a href="https://github.com/judah-lopes/certificados/blob/main/dio/python-analytics/dio-Tipos_de_Operadores_com_Python.pdf"><li>Tipos de Operadores</li></a>
   <a href="https://github.com/judah-lopes/certificados/blob/main/dio/python-analytics/dio-Estruturas_Condicionais_e_de_Repetição_em_Python.pdf"><li>Estruturas Condicionais e de Repetição</li></a>
   <a href="https://github.com/judah-lopes/certificados/blob/main/dio/python-analytics/dio-Manipulando_Strings_com_Python.pdf"><li>Manipulando Strings</li></a>
+  <a href="https://github.com/judah-lopes/certificados/blob/main/dio/python-analytics/dio-Trabalhando_com_Listas_em_Python.pdf"><li>Trabalhando com Listas</li></a>
 </ul>
    
 </div>
