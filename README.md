@@ -15,13 +15,13 @@
   <li> 🙇‍♂️📖 Cursando o 2º grau em ADS - Faculdade SENAC-DF (Desde fev/24)</li>
 </ul>
 
-<br>
+<!-- <br>
 <br>
 
 <div align="center">
   
 ![giphy 700](https://github.com/judah-lopes/judah-lopes/assets/134812191/7e0ed138-3c3e-45b4-a25e-5df4a8fae9c4)
-</div>
+</div> -->
 
 <br>
 <br>
@@ -144,10 +144,9 @@
 <br>
 
 <div align="center">
-  <div align="center">
-      
+  <!-- <div align="center">
   ![giphy](https://github.com/judah-lopes/judah-lopes/assets/134812191/bdc43a21-4aa7-49d3-805c-db4b594797b2)
-  </div>
+  </div> -->
 
   
   
