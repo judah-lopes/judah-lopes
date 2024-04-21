@@ -133,6 +133,7 @@
   <a href="https://github.com/judah-lopes/certificados/blob/main/dio/python-analytics/dio-Trabalhando_com_Listas_em_Python.pdf"><li>Trabalhando com Listas</li></a>
   <a href="https://github.com/judah-lopes/certificados/blob/main/dio/python-analytics/dio-Conhecendo_Tuplas_em_Python.pdf"><li>Trabalhando com Tuplas</li></a>
   <a href="https://github.com/judah-lopes/certificados/blob/main/dio/python-analytics/dio-Explorando_Conjuntos_em_Python.pdf"><li>Explorando Conjuntos</li></a>
+  <a href="https://github.com/judah-lopes/certificados/blob/main/dio/python-analytics/dio-Aprendendo_a_Utilizar_Dicionários_em_Python.pdf"><li>Utilizando Dicionários</li></a>
 </ul>
    
 </div>
