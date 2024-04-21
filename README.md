@@ -145,6 +145,7 @@
 
 <div align="center">
   <div align="center">
+    
   ![giphy](https://github.com/judah-lopes/judah-lopes/assets/134812191/bdc43a21-4aa7-49d3-805c-db4b594797b2)
   </div>
 
