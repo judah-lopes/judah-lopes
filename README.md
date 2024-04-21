@@ -110,7 +110,7 @@
     <a href="https://github.com/judah-lopes/certificados/blob/main/dio/angular/dio-Criando_Objetos_e_Classes_em_JavaScript.pdf"><li>Criando Objetos e Classes em JavaScript</li></a>
     <a href="https://github.com/judah-lopes/certificados/blob/main/dio/angular/dio-Importação_e_Exportação_com_JavaScript.pdf"><li>Importação e Exportação com JavaScript</li></a>
     <a href="https://github.com/judah-lopes/certificados/blob/main/dio/angular/dio-Criando_um_Projeto_com_HTML_e_CSS_para_Listagem_de_Pokémon.pdf"><li>Criando um Projeto com HTML/CSS para Listagem de Pokémon</li></a> -->
-      <a href="https://github.com/judah-lopes/certificados/blob/main/dio/angular/dio-Dominando_o_Protocolo_HTTP_e_Integrando_com_a_PokeAPI.pdf"><li>Dominando o Protocolo HTTP e Integrando com a PokeAPI</li></a>
+    <a href="https://github.com/judah-lopes/certificados/blob/main/dio/angular/dio-Dominando_o_Protocolo_HTTP_e_Integrando_com_a_PokeAPI.pdf"><li>Dominando o Protocolo HTTP e Integrando com a PokeAPI</li></a>
     <a href="https://github.com/judah-lopes/certificados/blob/main/dio/angular/dio-Trabalhando_com_Web_Components_no_Front-End.pdf"><li>Web Components no Front-End</li></a>
     <a href="https://github.com/judah-lopes/certificados/blob/main/dio/angular/dio-TypeScript_para_Angular.pdf"><li>TypeScript para Angular</li></a>
 <!--     <a href="https://github.com/judah-lopes/certificados/blob/main/dio/angular/dio-Introdução_ao_Ecossistema_Angular.pdf"><li>Introdução ao Ecossistema Angular</li></a> -->
@@ -131,6 +131,8 @@
   <a href="https://github.com/judah-lopes/certificados/blob/main/dio/python-analytics/dio-Estruturas_Condicionais_e_de_Repetição_em_Python.pdf"><li>Estruturas Condicionais e de Repetição</li></a>
   <a href="https://github.com/judah-lopes/certificados/blob/main/dio/python-analytics/dio-Manipulando_Strings_com_Python.pdf"><li>Manipulando Strings</li></a>
   <a href="https://github.com/judah-lopes/certificados/blob/main/dio/python-analytics/dio-Trabalhando_com_Listas_em_Python.pdf"><li>Trabalhando com Listas</li></a>
+  <a href="https://github.com/judah-lopes/certificados/blob/main/dio/python-analytics/dio-Conhecendo_Tuplas_em_Python.pdf"><li>Trabalhando com Tuplas</li></a>
+  <a href="https://github.com/judah-lopes/certificados/blob/main/dio/python-analytics/dio-Explorando_Conjuntos_em_Python.pdf"><li>Explorando Conjuntos</li></a>
 </ul>
    
 </div>
