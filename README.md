@@ -158,3 +158,22 @@
   <a href="https://wa.me/5561983622836" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%2325d366?style=for-the-badge&logo=whatsapp&logoColor=%23FFFFFF"/></a>
   
 </div>
+
+<!--
+========================= Possíveis utilizáveis ========================
+   | Tipo do Commit       | Emoji                | Palavra Chave | 
+   |----------------------|----------------------|---------------|
+   | Desafios             | ✒️ `:black_nib:`    | course        |
+   | Bug Fix              | 🐛 `:bug:`          | fix           |
+   | Comentários          | 💡 `:bulb:`         | docs          |
+   | Documentação         | 📚 `:books:`        | docs          |
+   | Em progresso         | 🚧 `:construction:` | progress      |
+   | Estilização          | 🎨 `:art:`          | style         |
+   | Mover/Renomear       | 🚚 `:truck:`        | chore         |
+   | Novo recurso         | ✨ `:sparkles:`     | feat          |
+   | Pequena Alteração    | 🔨 `:hammer:`       | edit          |
+   | Deletando um arquivo | 🗑️ `:wastebasket:`  | remove        |
+   | Teste Avulso         |  `:trollface:`      | test          |
+   | Texto                | 📝 `:pencil:`       | text          |
+
+-->
