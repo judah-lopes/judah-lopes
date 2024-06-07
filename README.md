@@ -11,7 +11,7 @@
   </table>
 <ul>
   <li> 👨‍💻🎨 Desenvolvedor Front-end</li>
-  <li> 🙇‍♂️📖 Estudante de Desenvolvimento Full-Stack - Escola DNC (fev/23 - Atual)</li>
+  <li> 🙇‍♂️📖 Desenvolvimento Full-Stack - Escola DNC (fev/23 - Atual)</li>
   <li> 🙇‍♂️📖 Cursando o Superior em ADS - Faculdade SENAC (fev/24 - Atual)</li>
 </ul>
 
