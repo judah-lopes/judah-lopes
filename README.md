@@ -18,41 +18,25 @@
 <br>
 <hr>
 
-<div align="center">
+<div>
   <h2>Linguagens e Frameworks</h2>
   
- <!-- [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery)](https://skillicons.dev) -->
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery)](https://skillicons.dev) 
   
-  <img src="https://img.shields.io/badge/HTML5-%23f06529?style=for-the-badge&logo=html5&logoColor=%23f06529&labelColor=%23303030">
-  <img src="https://img.shields.io/badge/CSS3-%233067e6?style=for-the-badge&logo=css3&logoColor=%232965f1&labelColor=%23303030">
-  <img src="https://img.shields.io/badge/JAVASCRIPT-%23f0db4f?style=for-the-badge&logo=javascript&logoColor=%23f0db4f&labelColor=%23303030">
-  <img src="https://img.shields.io/badge/BOOTSTRAP-%238e48de?style=for-the-badge&logo=bootstrap&logoColor=%238e48de&labelColor=%23303030">
-  <img src="https://img.shields.io/badge/JQUERY-%2378cff5?style=for-the-badge&logo=jquery&logoColor=%2378cff5&labelColor=%23303030"> 
+
 <!--   <img src="https://img.shields.io/badge/TYPESCRIPT-%233178c6?style=for-the-badge&logo=typescript&color=%233178c6&labelColor=%23303030"> -->
 <!--  <img src="https://img.shields.io/badge/ANGULAR-%23dd1b16?style=for-the-badge&logo=angular&logoColor=%23dd1b16&labelColor=%23303030"> -->
 <!--   <img src="https://img.shields.io/badge/NODE.JS-%233c873a?style=for-the-badge&logo=node.js&logoColor=%233c873a&labelColor=%23303030">
   <img src="https://img.shields.io/badge/REACT.JS-%2361dafb?style=for-the-badge&logo=react&logoColor=%2361dafb&labelColor=%23303030"> 
   <img src="https://img.shields.io/badge/PHP-%238993be?style=for-the-badge&logo=php&logoColor=%238993be&labelColor=%23303030"> --> 
 </div>
-<h3>TOP REPOSITÓRIOS 🔝</h3>
+<h2>Top Repositórios 🔝</h2>
   <p align="left">
     <a href="https://github.com/judah-lopes/dnc-dev_fullstack"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=judah-lopes&repo=dnc-dev_fullstack&theme=react&hide_border=true" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/judah-lopes/dio-angular"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=judah-lopes&repo=dio-angular&theme=react&hide_border=true" alt="github-readme-streak-stats"></a>
     <a href="https://github.com/judah-lopes/facsenac-ads"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=judah-lopes&repo=facsenac-ads&theme=react&hide_border=true" alt="github-readme-streak-stats"></a>
   </p>
 </div>
-
-<h3>LISTAS DE REPOSITÓRIOS</h3> 
-<ul>
-  <a href="https://github.com/stars/judah-lopes/lists/cursos"><li>Repositórios de cursos 📚</li></a>
-  <a href="https://github.com/judah-lopes/certificados/tree/main"><li>Certificados🎖️</li></a>
-  <a href="https://github.com/stars/judah-lopes/lists/projetos-github-pages"><li>Projetos no ar ✅</li></a>
-  <a href="https://github.com/stars/judah-lopes/lists/projetos-pessoais"><li>Projetos Pessoais 🗃️</li></a>
-</ul>
-
-<br>
-
-<br>
 
   <hr>
 
@@ -75,9 +59,14 @@
 
 <hr>
 
-<div>
-  
-  <hr>
+<h3>LISTAS DE REPOSITÓRIOS</h3> 
+<ul>
+  <a href="https://github.com/stars/judah-lopes/lists/cursos"><li>Repositórios de cursos 📚</li></a>
+  <a href="https://github.com/judah-lopes/certificados/tree/main"><li>Certificados🎖️</li></a>
+  <a href="https://github.com/stars/judah-lopes/lists/projetos-github-pages"><li>Projetos no ar ✅</li></a>
+  <a href="https://github.com/stars/judah-lopes/lists/projetos-pessoais"><li>Projetos Pessoais 🗃️</li></a>
+</ul>
+
 <br>
 
 <div align="center">
