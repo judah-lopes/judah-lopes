@@ -72,6 +72,7 @@
   <a href="mailto:dev.judahlopes@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://wa.me/5561983622836" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%2325d366?style=for-the-badge&logo=whatsapp&logoColor=%23FFFFFF"/></a>
 </div>
+<br>
 
   <!-- <div align="right"> 
   ![giphy](https://github.com/judah-lopes/judah-lopes/assets/134812191/bdc43a21-4aa7-49d3-805c-db4b594797b2)
