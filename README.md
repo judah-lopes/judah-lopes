@@ -45,8 +45,8 @@
 <!--    <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=judah-lopes&layout=compact&langs_count=7&theme=react&hide_border=true"/> -->
 
   <h3> ATIVIDADE NO GITHUB 🔥</h3>
-  <a href="https://github.com/judah-lopes">      
-  <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=judah-lopes&theme=react&hide_border=true&stroke=white&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/></a>
+  <!-- <a href="https://github.com/judah-lopes">      
+  <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=judah-lopes&theme=react&hide_border=true&stroke=white&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/></a> -->
 </div>
 <!----------------- SNAKE ANIMATION ------------------>
 <picture>
