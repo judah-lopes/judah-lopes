@@ -36,6 +36,7 @@
   <a href="https://github.com/judah-lopes/facsenac-ads"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=judah-lopes&repo=facsenac-ads&theme=react&hide_border=true" alt="github-readme-streak-stats"></a>
 </p>
 
+<br>
   <hr>
 
 <div align="center">
@@ -54,6 +55,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/judah-lopes/judah-lopes/output/github-contribution-grid-snake.svg">
 </picture>
 
+<br>
   <hr>
 
 <!-- <h3>LISTAS DE REPOSITÓRIOS</h3>
