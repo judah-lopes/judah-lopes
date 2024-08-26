@@ -19,7 +19,7 @@
   <hr>
 
 <div>
-  <h3>Linguagens e Frameworks</h3>
+  <h2>Linguagens e Frameworks</h2>
   
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery)](https://skillicons.dev) 
   <!--   <img src="https://img.shields.io/badge/TYPESCRIPT-%233178c6?style=for-the-badge&logo=typescript&color=%233178c6&labelColor=%23303030"> -->
@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/PHP-%238993be?style=for-the-badge&logo=php&logoColor=%238993be&labelColor=%23303030"> --> 
 </div>
 
-<h3>Top Repositórios 🥇</h3>
+<h2>Top Repositórios 🥇</h2>
 <p align="left">
   <a href="https://github.com/judah-lopes/dnc-dev_fullstack"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=judah-lopes&repo=dnc-dev_fullstack&theme=react&hide_border=true" alt="github-readme-streak-stats"></a>
   <a href="https://github.com/judah-lopes/dio-angular"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=judah-lopes&repo=dio-angular&theme=react&hide_border=true" alt="github-readme-streak-stats"></a>
@@ -67,7 +67,7 @@
 </ul> -->
 <br>
 <div align="center">
-  <h3>REDES SOCIAIS E CONTATOS ✉️</h3> 
+  <h2>REDES SOCIAIS E CONTATOS ✉️</h2> 
   <a href="https://www.instagram.com/dev_judah.lopes/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/judah-lopes" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:dev.judahlopes@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
