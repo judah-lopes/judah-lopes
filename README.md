@@ -41,8 +41,8 @@
 
 <div align="center">
   <h3>ESTATÍSTICAS 📈</h3>
-  <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api?username=judah-lopes&hide_border=true&show_icons=true&count_private=true&theme=react&hide=issues"/> 
-<!--    <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=judah-lopes&layout=compact&langs_count=7&theme=react&hide_border=true"/> -->
+  <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api?username=judah-lopes&hide_border=true&show_icons=true&count_private=true&theme=react&hide=issues"/>     
+  <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=judah-lopes&layout=compact&langs_count=7&theme=react&hide_border=true"/>
 
   <h3> ATIVIDADE NO GITHUB 🔥</h3>
   <!-- <a href="https://github.com/judah-lopes">      
