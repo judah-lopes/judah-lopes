@@ -37,13 +37,7 @@
     <a href="https://github.com/judah-lopes/facsenac-ads"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=judah-lopes&repo=facsenac-ads&theme=react&hide_border=true" alt="github-readme-streak-stats"></a>
   </p>
 
-<h3>LISTAS DE REPOSITÓRIOS</h3> 
-<ul>
-  <a href="https://github.com/stars/judah-lopes/lists/cursos"><li>Repositórios de cursos 📚</li></a>
-  <a href="https://github.com/judah-lopes/certificados/tree/main"><li>Certificados🎖️</li></a>
-  <a href="https://github.com/stars/judah-lopes/lists/projetos-github-pages"><li>Projetos no ar ✅</li></a>
-  <a href="https://github.com/stars/judah-lopes/lists/projetos-pessoais"><li>Projetos Pessoais 🗃️</li></a>
-</ul>
+
 
   <hr>
 
@@ -67,8 +61,15 @@
 <hr>
 
 <br>
+<h3>LISTAS DE REPOSITÓRIOS</h3> 
+<ul>
+  <a href="https://github.com/stars/judah-lopes/lists/cursos"><li>Repositórios de cursos 📚</li></a>
+  <a href="https://github.com/judah-lopes/certificados/tree/main"><li>Certificados🎖️</li></a>
+  <a href="https://github.com/stars/judah-lopes/lists/projetos-github-pages"><li>Projetos no ar ✅</li></a>
+  <a href="https://github.com/stars/judah-lopes/lists/projetos-pessoais"><li>Projetos Pessoais 🗃️</li></a>
+</ul>
 
-<div align="center">
+<div align="right">
   <!-- <div align="center"> 
   ![giphy](https://github.com/judah-lopes/judah-lopes/assets/134812191/bdc43a21-4aa7-49d3-805c-db4b594797b2)
   </div> -->
