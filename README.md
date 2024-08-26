@@ -65,7 +65,6 @@
   <a href="https://github.com/stars/judah-lopes/lists/projetos-github-pages"><li>Projetos no ar ✅</li></a>
   <a href="https://github.com/stars/judah-lopes/lists/projetos-pessoais"><li>Projetos Pessoais 🗃️</li></a>
 </ul> -->
-<br>
 <div align="center">
   <h2>REDES SOCIAIS E CONTATOS ✉️</h2> 
   <a href="https://www.instagram.com/dev_judah.lopes/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
