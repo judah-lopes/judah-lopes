@@ -60,17 +60,19 @@
 
 <!-- <h3>LISTAS DE REPOSITÓRIOS</h3>
 <ul>
-  <a href="https://github.com/stars/judah-lopes/lists/cursos"><li>Repositórios de cursos 📚</li></a>
+  <a href="https://github.com/stars/judah-lo pes/lists/cursos"><li>Repositórios de cursos 📚</li></a>
   <a href="https://github.com/judah-lopes/certificados/tree/main"><li>Certificados🎖️</li></a>
   <a href="https://github.com/stars/judah-lopes/lists/projetos-github-pages"><li>Projetos no ar ✅</li></a>
   <a href="https://github.com/stars/judah-lopes/lists/projetos-pessoais"><li>Projetos Pessoais 🗃️</li></a>
 </ul> -->
-
-<h3>REDES SOCIAIS E CONTATOS ✉️</h3>
-<a href="https://www.instagram.com/dev_judah.lopes/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/judah-lopes" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:dev.judahlopes@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://wa.me/5561983622836" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%2325d366?style=for-the-badge&logo=whatsapp&logoColor=%23FFFFFF"/></a>
+<br>
+<div align="center">
+  <h2>REDES SOCIAIS E CONTATOS ✉️</h2> 
+  <a href="https://www.instagram.com/dev_judah.lopes/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/judah-lopes" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:dev.judahlopes@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://wa.me/5561983622836" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%2325d366?style=for-the-badge&logo=whatsapp&logoColor=%23FFFFFF"/></a>
+</div>
 
   <!-- <div align="right"> 
   ![giphy](https://github.com/judah-lopes/judah-lopes/assets/134812191/bdc43a21-4aa7-49d3-805c-db4b594797b2)
